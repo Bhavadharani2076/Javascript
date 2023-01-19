@@ -1,3 +1,4 @@
+// Code to create content in the website
 var React = require("react");
 
 function Note() {
