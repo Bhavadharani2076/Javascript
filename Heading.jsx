@@ -1,3 +1,4 @@
+// Code to create header in the website
 var React = require("react");
 
 function Heading() {
