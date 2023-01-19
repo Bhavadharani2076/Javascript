@@ -1,4 +1,4 @@
-// Code to write content in the website 
+// Code to combine all compontents and create website 
 import Heading from "./components/Heading";
 import Note from "./components/Note";
 import Footer from "./components/Footer";
