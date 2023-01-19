@@ -1,3 +1,4 @@
+// Code to create footer in the website
 var React = require("react");
 
 function Footer() {
